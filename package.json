@@ -1,0 +1,27 @@
+{
+  "name": "@carlossalasamper/eslint-config",
+  "description": "GamesMayer Eslint Config",
+  "version": "0.1.0",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    ".prettierrc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlossalasamper/eslint-config.git"
+  },
+  "author": "Carlos Sala Samper",
+  "license": "UNLICENSED",
+  "peerDependencies": {
+    "eslint": ">=0.8.0"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.5.0",
+    "@typescript-eslint/parser": "^5.5.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.5.0"
+  }
+}
