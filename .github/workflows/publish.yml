@@ -1,4 +1,4 @@
-name: Publish gamesmayer-eslint-config
+name: Publish @carlossalasamper/eslint-config
 on:
   push:
     branches: [master]
