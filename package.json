@@ -2,7 +2,7 @@
   "private": false,
   "name": "@carlossalasamper/eslint-config",
   "description": "The definitive ESLint setup for TypeScript projects.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": {
     "name": "Carlos Sala Samper",
     "url": "https://godofprogramming.com"
@@ -34,7 +34,6 @@
     "eslint": "^8.0.0"
   },
   "devDependencies": {
-    "@carlossalasamper/eslint-config": "^0.1.4",
     "eslint": "^8.0.0"
   },
   "dependencies": {
